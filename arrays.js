@@ -140,8 +140,8 @@ const collections = [
 
 /* Exercise 2 */
 
-// You are given of an array with a random numbers.
-// Please find the first re occuring number.
+// You are given of an array with random numbers.
+// Please return the first re occuring number.
 
 const numbers = [1, 364, 22, 4, 5, 4, 7, 947, 1, 63]
 
@@ -152,8 +152,8 @@ const numbers = [1, 364, 22, 4, 5, 4, 7, 947, 1, 63]
 /* Exercise 3 */
 
 // You are given an array of animals.
-// Please filter them by weekday.
-// Your result may be an object or an array.
+// Please return an array or object with arrays
+// filtered by weekday (Sun, Mon, ...).
 
 const animals = [
   {
